@@ -1,0 +1,1 @@
+INSERT INTO user(username, password, role_id) VALUES ('JBloggs', '1234', 1), ('EMcGreggor', 'Hello', 2);
